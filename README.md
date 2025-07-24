@@ -1,2 +1,0 @@
-# DEV
-My first Repository
